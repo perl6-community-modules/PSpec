@@ -1,8 +1,8 @@
-# PSpec -- RSpec for Perl 6 [![Build Status](https://travis-ci.org/supernovus/PSpec.svg?branch=master)](https://travis-ci.org/supernovus/PSpec)
+# PSpec -- RSpec for Raku [![Build Status](https://travis-ci.org/supernovus/PSpec.svg?branch=master)](https://travis-ci.org/supernovus/PSpec)
 
 ## Introduction
 
-PSpec is an implementation of Ruby's RSpec library, in Perl 6.
+PSpec is an implementation of Ruby's RSpec library, in Raku.
 It's currently very minimal, and does not implement much of RSpec.
 
 ## Status
@@ -22,12 +22,12 @@ Well, I must send cudos to the original authors of RSpec and Cucumber,
 without them, this wouldn't exist.
 
 Also, a big cheers to Carl Masak, who is always friendly and helpful!
-And a call-out to Larry Wall whose help on the #perl6 channel has been 
+And a call-out to Larry Wall whose help on the #raku channel has been 
 greatly appreciated! I guess I should also thank him for creating Perl :-)
 
 Since writing the original version of this Credits section, I've received
-a lot of help and feedback from many people on the #perl6 channel. Thanks
-to the whole Perl 6 community for being awesome!
+a lot of help and feedback from many people on the #raku channel. Thanks
+to the whole Raku community for being awesome!
 
 ## Author
 
