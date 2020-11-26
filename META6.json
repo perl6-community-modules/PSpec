@@ -2,10 +2,10 @@
   "perl"        : "6.*",
   "name"        : "PSpec",
   "version"     : "*",
-  "description" : "An RSpec-like testing framework for Perl 6",
+  "description" : "An RSpec-like testing framework for Raku",
   "provides"    : {
     "PSpec" : "lib/PSpec.pm6"
   },
   "depends"     : [],
-  "source-url"  : "git://github.com/supernovus/PSpec.git"
+  "source-url"  : "git://github.com/raku-community-modules/PSpec.git"
 }
