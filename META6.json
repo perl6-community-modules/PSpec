@@ -1,11 +1,24 @@
 {
-  "perl"        : "6.*",
-  "name"        : "PSpec",
-  "version"     : "*",
-  "description" : "An RSpec-like testing framework for Raku",
-  "provides"    : {
-    "PSpec" : "lib/PSpec.pm6"
+  "auth": "zef:community-modules",
+  "author": "Timothy Totten",
+  "build-depends": [
+  ],
+  "depends": [
+    "Test"
+  ],
+  "description": "An RSpec-like testing framework for Raku",
+  "license": "Artistic-2.0",
+  "name": "PSpec",
+  "perl": "6.*",
+  "provides": {
+    "PSpec": "lib/PSpec.rakumod"
   },
-  "depends"     : [],
-  "source-url"  : "git://github.com/raku-community-modules/PSpec.git"
+  "resources": [
+  ],
+  "source-url": "git://github.com/raku-community-modules/PSpec.git",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "4.0.1"
 }
