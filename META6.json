@@ -1,5 +1,5 @@
 {
-  "auth": "zef:community-modules",
+  "auth": "zef:raku-community-modules",
   "author": "Timothy Totten",
   "build-depends": [
   ],
